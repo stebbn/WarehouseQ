@@ -8,7 +8,7 @@
 - **Student ID:** 2024-1070
 - **Section:** CS3A
 - **Date:** October 24, 2026
-- **Pull request:** "update later"
+- **Pull request:** [Pull Request](https://github.com/stebbn/WarehouseQ/pull/2)
 
 ## Personas
 
